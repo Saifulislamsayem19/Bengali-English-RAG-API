@@ -94,7 +94,7 @@ The API will be available at `http://localhost:8000`
 **Output:**
 ```json
 {
-  "answer": "অনুপমের ভাষায় শুম্ভুনাথকে সুপুরুষ বলা হয়েছে। গল্পে অনুপম শুম্ভুনাথের রূপ ও গুণের প্রশংসা করেছে এবং তাকে একজন আদর্শ পুরুষ হিসেবে বর্ণনা করেছে।",
+  "answer": "অনুপমের ভাষায় শুম্ভুনাথকে সুপুরুষ বলা হয়েছে।",
   "confidence_score": 0.92,
   "sources": [
     {
@@ -112,7 +112,7 @@ The API will be available at `http://localhost:8000`
 **Output:**
 ```json
 {
-  "answer": "অনুপমের মামাকে তার ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে। গল্পে অনুপম মামার প্রতি কৃতজ্ঞতা প্রকাশ করেছে এবং তাকে তার ভাগ্যের নিয়ন্তা হিসেবে দেখেছে।",
+  "answer": "অনুপমের মামাকে তার ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে।",
   "confidence_score": 0.88,
   "sources": [
     {
@@ -132,7 +132,7 @@ The API will be available at `http://localhost:8000`
 **Output:**
 ```json
 {
-  "answer": "Shumbhunath is referred to as a 'supurush' (superior man) in Anupam's language. In the story, Anupam admires Shumbhunath's appearance and qualities, describing him as an ideal man.",
+  "answer": "Shumbhunath is referred to as a 'supurush' in Anupam's language.",
   "confidence_score": 0.90,
   "sources": [
     {
@@ -150,7 +150,7 @@ The API will be available at `http://localhost:8000`
 **Output:**
 ```json
 {
-  "answer": "Kalyani's actual age at the time of marriage was 15 years. This detail is mentioned in the story as part of the narrative about the arranged marriage.",
+  "answer": "Kalyani's actual age at the time of marriage was 15 years.",
   "confidence_score": 0.86,
   "sources": [
     {
