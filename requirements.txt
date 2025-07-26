@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+python-dotenv 
+langchain 
+langchain-openai 
+llama-index 
+pinecone-client 
+PyPDF2 
+scikit-learn 
+sentence-transformers
